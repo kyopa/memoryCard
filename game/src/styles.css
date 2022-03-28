@@ -1,0 +1,13 @@
+.pics {
+    background-color: azure;
+    display: grid;
+    grid-template-columns: repeat(4, 450px);
+    grid-template-rows: 350px 350px;
+    font-size: 4rem;
+    
+}
+
+img {
+    width: 400px;
+    height: 330px;
+}
